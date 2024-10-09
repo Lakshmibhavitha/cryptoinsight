@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cryptoinsight/static/css/main.7dee35fb.css",
-    "main.js": "/cryptoinsight/static/js/main.cf66bc89.js",
+    "main.css": "/cryptoinsight/static/css/main.e44c2815.css",
+    "main.js": "/cryptoinsight/static/js/main.33f2eebc.js",
     "index.html": "/cryptoinsight/index.html",
-    "main.7dee35fb.css.map": "/cryptoinsight/static/css/main.7dee35fb.css.map",
-    "main.cf66bc89.js.map": "/cryptoinsight/static/js/main.cf66bc89.js.map"
+    "main.e44c2815.css.map": "/cryptoinsight/static/css/main.e44c2815.css.map",
+    "main.33f2eebc.js.map": "/cryptoinsight/static/js/main.33f2eebc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dee35fb.css",
-    "static/js/main.cf66bc89.js"
+    "static/css/main.e44c2815.css",
+    "static/js/main.33f2eebc.js"
   ]
 }
